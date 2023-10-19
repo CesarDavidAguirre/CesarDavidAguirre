@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CesarDavidAguirre/CesarDavidAguirre/static/css/main.30ea52ad.css",
-    "main.js": "/CesarDavidAguirre/CesarDavidAguirre/static/js/main.e3b150cb.js",
-    "static/js/787.ab73f89d.chunk.js": "/CesarDavidAguirre/CesarDavidAguirre/static/js/787.ab73f89d.chunk.js",
-    "index.html": "/CesarDavidAguirre/CesarDavidAguirre/index.html",
-    "main.30ea52ad.css.map": "/CesarDavidAguirre/CesarDavidAguirre/static/css/main.30ea52ad.css.map",
-    "main.e3b150cb.js.map": "/CesarDavidAguirre/CesarDavidAguirre/static/js/main.e3b150cb.js.map",
-    "787.ab73f89d.chunk.js.map": "/CesarDavidAguirre/CesarDavidAguirre/static/js/787.ab73f89d.chunk.js.map"
+    "main.css": "/CesarDavidAguirre/static/css/main.30ea52ad.css",
+    "main.js": "/CesarDavidAguirre/static/js/main.ab5be140.js",
+    "static/js/787.ab73f89d.chunk.js": "/CesarDavidAguirre/static/js/787.ab73f89d.chunk.js",
+    "index.html": "/CesarDavidAguirre/index.html",
+    "main.30ea52ad.css.map": "/CesarDavidAguirre/static/css/main.30ea52ad.css.map",
+    "main.ab5be140.js.map": "/CesarDavidAguirre/static/js/main.ab5be140.js.map",
+    "787.ab73f89d.chunk.js.map": "/CesarDavidAguirre/static/js/787.ab73f89d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30ea52ad.css",
-    "static/js/main.e3b150cb.js"
+    "static/js/main.ab5be140.js"
   ]
 }
